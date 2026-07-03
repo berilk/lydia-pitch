@@ -23,10 +23,11 @@
         <a href="#gaps">Gaps</a>
         <a href="#validation">Validation</a>
         <a href="#mvp">MVP</a>
+        <a href="#demo">Demo</a>
         <a href="#roadmap">Roadmap</a>
       </nav>
       <div class="counter" aria-live="polite">
-        <span id="currentSlide">01</span><span>/08</span>
+        <span id="currentSlide">01</span><span>/09</span>
       </div>
     </header>
 
@@ -62,7 +63,7 @@
       <section id="crisis" class="slide crisis" data-slide="02">
         <div class="slide-inner">
           <p class="eyebrow">The invisible water crisis</p>
-          <h2>Every drop lost underground has already been collected, treated, transported and paid for.</h2>
+          <h2>Nearly one out of every three liters of drinking water produced in T&uuml;rkiye never reaches the person it was intended for.</h2>
 
           <div class="crisis-stage">
             <div class="pipe-visual" aria-hidden="true">
@@ -75,8 +76,8 @@
             <article class="stat-focus">
               <strong>35-43%</strong>
               <p>
-                Nearly one out of every three liters of drinking water produced in
-                T&uuml;rkiye never reaches the person it was intended for.
+                Every drop lost underground has already been collected, treated,
+                transported and paid for.
               </p>
               <small>Republic of T&uuml;rkiye Ministry of Agriculture and Forestry, Urban Water Losses Management in Turkey</small>
             </article>
@@ -123,35 +124,49 @@
           <div class="stakeholder-grid">
             <article class="insight">
               <div class="avatar">M</div>
+              <p class="person">Mayor Alp Karg&inodot;</p>
               <h3>Municipality</h3>
               <p>Municipalities do not just lose water. They lose time, workforce and budget.</p>
               <blockquote>
                 If the system can accurately narrow down the location of a leak and guide field teams to the right area, it could become a highly practical solution.
               </blockquote>
+              <cite>Municipal decision-maker interview</cite>
             </article>
             <article class="insight">
               <div class="avatar">F</div>
+              <p class="person">Ayhan K. & Hasan T.</p>
               <h3>Field teams</h3>
               <p>Crews need better guidance before excavation, not full replacement by automation.</p>
               <blockquote>
-                People and AI work best together.
+                Sometimes we only find out about a leak after a citizen calls us. Finding the exact location can take hours.
               </blockquote>
+              <blockquote>
+                If the system could first point me toward the suspicious area and then I could verify it myself, we'd solve problems much faster.
+              </blockquote>
+              <cite>Field technician interviews</cite>
             </article>
             <article class="insight">
               <div class="avatar">O</div>
+              <p class="person">Mehmet A.</p>
               <h3>Operations</h3>
               <p>Operators already see pressure and flow signals. They need to understand what those signals mean.</p>
               <blockquote>
-                A system that explains why it raised an alarm is easier to trust.
+                A system that not only raises an alarm but also explains why it did so would make it much easier for operators to trust and use it.
               </blockquote>
+              <cite>Operations and monitoring interview</cite>
             </article>
             <article class="insight">
               <div class="avatar">C</div>
+              <p class="person">Fatma Y. & Emine D.</p>
               <h3>Citizens</h3>
               <p>For citizens, leak detection becomes uninterrupted service and fewer repeated road excavations.</p>
               <blockquote>
-                Detect problems before they become serious.
+                What matters most to us is having uninterrupted water service and not seeing our streets dug up over and over again.
               </blockquote>
+              <blockquote>
+                If problems could be detected before they become serious, we wouldn't waste so much water and people wouldn't have to deal with so much disruption.
+              </blockquote>
+              <cite>Citizen interviews</cite>
             </article>
           </div>
 
@@ -288,7 +303,44 @@
         </div>
       </section>
 
-      <section id="roadmap" class="slide" data-slide="07">
+      <section id="demo" class="slide demo-slide" data-slide="07">
+        <div class="slide-inner demo-layout">
+          <div>
+            <p class="eyebrow">Live MVP demo</p>
+            <h2>From signal to action, inside the working dashboard.</h2>
+            <p class="demo-copy">
+              The deployed MVP shows the anomaly workflow in context: network state,
+              prediction output, and the operational view a municipality would use to
+              understand where attention is needed.
+            </p>
+            <a
+              class="demo-button"
+              href="https://aquasense-dashboard.onrender.com"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Open live dashboard
+            </a>
+            <small class="demo-note">
+              Hosted MVP demo. If the service is waking up, keep this slide on screen
+              for a moment or open it in a new tab.
+            </small>
+          </div>
+          <div class="demo-frame" aria-label="LYDIA MVP dashboard preview">
+            <div class="browser-chrome" aria-hidden="true">
+              <span></span><span></span><span></span>
+              <p>aquasense-dashboard.onrender.com</p>
+            </div>
+            <iframe
+              title="LYDIA MVP dashboard"
+              src="https://aquasense-dashboard.onrender.com"
+              loading="lazy"
+            ></iframe>
+          </div>
+        </div>
+      </section>
+
+      <section id="roadmap" class="slide" data-slide="08">
         <div class="slide-inner">
           <p class="eyebrow">Product roadmap</p>
           <h2>Today validates the intelligence. Tomorrow expands the platform.</h2>
@@ -318,7 +370,7 @@
         </div>
       </section>
 
-      <section id="closing" class="slide hero final" data-slide="08">
+      <section id="closing" class="slide hero final" data-slide="09">
         <div class="hero-media" aria-hidden="true">
           <img src="./assets/lydia-infrastructure.png" alt="" />
         </div>

@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>LYDIA Pitch</title>
+    <meta
+      name="description"
+      content="LYDIA - Leak Yield Detection Integrated AI pitch presentation"
+    />
+    <link rel="icon" href="./favicon.ico" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar" aria-label="Presentation controls">
+      <a class="brand" href="#meet" aria-label="Go to first slide">
+        <span class="brand-mark" aria-hidden="true"></span>
+        LYDIA
+      </a>
+      <nav class="nav" aria-label="Slides">
+        <a href="#crisis">Crisis</a>
+        <a href="#users">Users</a>
+        <a href="#gaps">Gaps</a>
+        <a href="#validation">Validation</a>
+        <a href="#mvp">MVP</a>
+        <a href="#roadmap">Roadmap</a>
+      </nav>
+      <div class="counter" aria-live="polite">
+        <span id="currentSlide">01</span><span>/08</span>
+      </div>
+    </header>
+
+    <main id="deck" class="deck">
+      <section id="meet" class="slide hero" data-slide="01">
+        <div class="hero-media" aria-hidden="true">
+          <img src="./assets/lydia-infrastructure.png" alt="" />
+        </div>
+        <div class="slide-inner hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow">Leak Yield Detection Integrated AI</p>
+            <h1>LYDIA</h1>
+            <p class="lede">
+              A real-time AI platform that predicts hidden water leaks before they
+              become visible.
+            </p>
+            <div class="team-list" aria-label="Team">
+              <span>AI infrastructure</span>
+              <span>Water resilience</span>
+              <span>Municipal operations</span>
+            </div>
+          </div>
+          <div class="identity-panel" aria-label="LYDIA acronym">
+            <p><b>L</b>eak</p>
+            <p><b>Y</b>ield</p>
+            <p><b>D</b>etection</p>
+            <p><b>I</b>ntegrated</p>
+            <p><b>A</b>I</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="crisis" class="slide crisis" data-slide="02">
+        <div class="slide-inner">
+          <p class="eyebrow">The invisible water crisis</p>
+          <h2>Every drop lost underground has already been collected, treated, transported and paid for.</h2>
+
+          <div class="crisis-stage">
+            <div class="pipe-visual" aria-hidden="true">
+              <span class="pipe"></span>
+              <span class="leak"></span>
+              <span class="drop drop-a"></span>
+              <span class="drop drop-b"></span>
+              <span class="drop drop-c"></span>
+            </div>
+            <article class="stat-focus">
+              <strong>35-43%</strong>
+              <p>
+                Nearly one out of every three liters of drinking water produced in
+                T&uuml;rkiye never reaches the person it was intended for.
+              </p>
+              <small>Republic of T&uuml;rkiye Ministry of Agriculture and Forestry, Urban Water Losses Management in Turkey</small>
+            </article>
+          </div>
+
+          <div class="evidence-grid">
+            <article>
+              <span>Extraction</span>
+              <span>Treatment</span>
+              <span>Distribution</span>
+              <span>Leak</span>
+              <p>
+                This is drinking water that has already been extracted, treated,
+                disinfected, pumped through kilometers of infrastructure and paid for.
+              </p>
+            </article>
+            <article class="impact">
+              <b>Water</b>
+              <b>Energy</b>
+              <b>Economy</b>
+              <b>Infrastructure</b>
+              <p>A leaking pipe wastes far more than water. It wastes energy, money, carbon, and public trust.</p>
+            </article>
+            <article>
+              <strong>32B m<sup>3</sup></strong>
+              <p>Treated drinking water lost through leakage globally each year.</p>
+              <small>World Bank, Reducing Non-Revenue Water</small>
+            </article>
+            <article>
+              <strong>200M</strong>
+              <p>People could be supplied daily by drinking water that disappears before a tap.</p>
+            </article>
+          </div>
+
+          <p class="takeaway">The problem is not only missing water. It is missing intelligence.</p>
+        </div>
+      </section>
+
+      <section id="users" class="slide" data-slide="03">
+        <div class="slide-inner">
+          <p class="eyebrow">Designed around people</p>
+          <h2>Every stakeholder described the same problem from a different perspective.</h2>
+
+          <div class="stakeholder-grid">
+            <article class="insight">
+              <div class="avatar">M</div>
+              <h3>Municipality</h3>
+              <p>Municipalities do not just lose water. They lose time, workforce and budget.</p>
+              <blockquote>
+                If the system can accurately narrow down the location of a leak and guide field teams to the right area, it could become a highly practical solution.
+              </blockquote>
+            </article>
+            <article class="insight">
+              <div class="avatar">F</div>
+              <h3>Field teams</h3>
+              <p>Crews need better guidance before excavation, not full replacement by automation.</p>
+              <blockquote>
+                People and AI work best together.
+              </blockquote>
+            </article>
+            <article class="insight">
+              <div class="avatar">O</div>
+              <h3>Operations</h3>
+              <p>Operators already see pressure and flow signals. They need to understand what those signals mean.</p>
+              <blockquote>
+                A system that explains why it raised an alarm is easier to trust.
+              </blockquote>
+            </article>
+            <article class="insight">
+              <div class="avatar">C</div>
+              <h3>Citizens</h3>
+              <p>For citizens, leak detection becomes uninterrupted service and fewer repeated road excavations.</p>
+              <blockquote>
+                Detect problems before they become serious.
+              </blockquote>
+            </article>
+          </div>
+
+          <p class="takeaway narrow">
+            LYDIA was built with its users, not merely for them.
+          </p>
+        </div>
+      </section>
+
+      <section id="gaps" class="slide" data-slide="04">
+        <div class="slide-inner">
+          <p class="eyebrow">From monitoring to intelligence</p>
+          <h2>Current systems collect information. LYDIA turns it into action.</h2>
+
+          <div class="comparison">
+            <div class="column">
+              <p class="column-label">Today</p>
+              <article>Poor robustness against noisy real-world data</article>
+              <article>Limited availability of reliable labeled data</article>
+              <article>Limited explainability, usability and prediction confidence</article>
+            </div>
+            <div class="bridge" aria-hidden="true">
+              <span></span><span></span><span></span>
+            </div>
+            <div class="column positive">
+              <p class="column-label">LYDIA</p>
+              <article>
+                <b>4.0 / 5</b>
+                Noise-robust data processing
+                <small>AI trust and prediction reliability</small>
+              </article>
+              <article>
+                <b>4.5 / 5</b>
+                Reliable data preparation and learning
+                <small>Problem understanding and explainability</small>
+              </article>
+              <article>
+                <b>4.5 / 5</b>
+                Explainable and actionable decision support
+                <small>Ease of use</small>
+              </article>
+            </div>
+          </div>
+
+          <small class="source">Average ratings from stakeholder interviews and prototype usability testing, n = 4.</small>
+        </div>
+      </section>
+
+      <section id="validation" class="slide validation" data-slide="05">
+        <div class="slide-inner">
+          <p class="eyebrow">Validation journey</p>
+          <h2>Every feature began as a conversation.</h2>
+
+          <div class="journey">
+            <article>
+              <span>01</span>
+              <h3>User discovery</h3>
+              <p>Interviews with municipalities, field technicians, engineers, infrastructure experts and citizens.</p>
+            </article>
+            <article>
+              <span>02</span>
+              <h3>Municipality collaboration</h3>
+              <p>Merzifon, Kartal, Uluborlu and Bolu shaped workflow expectations and deployment discussions.</p>
+            </article>
+            <article>
+              <span>03</span>
+              <h3>Stakeholder validation</h3>
+              <p>Each group evaluated LYDIA from a different operational perspective.</p>
+            </article>
+            <article class="score-card">
+              <span>04</span>
+              <h3>Prototype evaluation</h3>
+              <strong>4.75 / 5</strong>
+              <p>Would you use LYDIA in your organization?</p>
+            </article>
+            <article>
+              <span>05</span>
+              <h3>Product iteration</h3>
+              <p>Feedback shaped prioritization, interface design, explainability and technical architecture.</p>
+            </article>
+          </div>
+
+          <p class="takeaway">
+            We listened first, then built LYDIA around what people needed.
+          </p>
+        </div>
+      </section>
+
+      <section id="mvp" class="slide dark mvp" data-slide="06">
+        <div class="slide-inner">
+          <p class="eyebrow">MVP</p>
+          <h2>The intelligence layer is live.</h2>
+          <p class="lede tight">
+            From simulated sensor data to a working prediction - the full pipeline,
+            end to end.
+          </p>
+
+          <div class="flow" aria-label="MVP user journey">
+            <span>Sensor data</span>
+            <span>Real-time stream</span>
+            <span>LYDIA engine</span>
+            <span>Anomaly alert</span>
+            <span>Field action</span>
+          </div>
+
+          <div class="mvp-panels">
+            <article>
+              <h3>MVP - Implemented</h3>
+              <ul>
+                <li>Real-time anomaly detection across 32 measurement points.</li>
+                <li>Live deployed backend and frontend, not a local demo.</li>
+                <li>XGBoost model trained on 700 LeakDB scenarios, about 12.3M steps.</li>
+                <li>Held-out test set of 150 scenarios, 2,628,000 steps.</li>
+                <li>EPANET Hanoi topology with 32 nodes and 34 pipes.</li>
+              </ul>
+            </article>
+            <article>
+              <h3>Next - In Development</h3>
+              <ul>
+                <li>Real municipal SCADA and sensor integration.</li>
+                <li>Signed pilot partnerships with municipalities.</li>
+                <li>Dedicated field team mobile app and dispatch system.</li>
+                <li>Pipe-segment level leak localization.</li>
+              </ul>
+            </article>
+          </div>
+
+          <div class="metrics">
+            <span><b>82%</b> accuracy</span>
+            <span><b>59%</b> precision, leak class</span>
+          </div>
+          <small class="source">LeakDB benchmark - Hanoi network topology - independent 150-scenario test set - incrementally trained XGBoost.</small>
+          <p class="takeaway">LYDIA does not monitor water networks. It understands them.</p>
+        </div>
+      </section>
+
+      <section id="roadmap" class="slide" data-slide="07">
+        <div class="slide-inner">
+          <p class="eyebrow">Product roadmap</p>
+          <h2>Today validates the intelligence. Tomorrow expands the platform.</h2>
+
+          <div class="roadmap-grid">
+            <article>
+              <p class="column-label">Must have</p>
+              <h3>Core prediction reliability</h3>
+              <p>Real-time anomaly detection, robust data handling, explainable alerts and operator confidence.</p>
+            </article>
+            <article>
+              <p class="column-label">Should have</p>
+              <h3>Municipal integration</h3>
+              <p>SCADA ingestion, role-based dashboards, alert history and operational reporting.</p>
+            </article>
+            <article>
+              <p class="column-label">Could have</p>
+              <h3>Field intelligence</h3>
+              <p>Mobile dispatch, repair status, technician notes and feedback loops back into the model.</p>
+            </article>
+            <article>
+              <p class="column-label">Future vision</p>
+              <h3>Infrastructure intelligence</h3>
+              <p>A city-scale intelligence layer for water, pressure, maintenance, risk and resilience planning.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="closing" class="slide hero final" data-slide="08">
+        <div class="hero-media" aria-hidden="true">
+          <img src="./assets/lydia-infrastructure.png" alt="" />
+        </div>
+        <div class="slide-inner final-inner">
+          <p class="eyebrow">LYDIA</p>
+          <h2>Every drop has a destination.</h2>
+          <p class="closing-line">Let&apos;s make sure it gets there.</p>
+          <div class="contact">
+            <span>Leak Yield Detection Integrated AI</span>
+            <span>Real-time leak prediction for sustainable cities</span>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
+    <script src="./script.js"></script>
+  </body>
+</html>

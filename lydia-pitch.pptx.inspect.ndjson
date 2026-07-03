@@ -1,0 +1,212 @@
+{"kind":"deck","id":"pr/csix1y","name":"Deck"}
+{"kind":"layout","layoutId":"9acbc39e-15b0-41dc-a1fb-e54290e50f73","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"5a464e68-768a-49d5-8730-b63991470b45","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/tjhad5","slide":1,"title":"LEAK YIELD DETECTION INTEGRATED AI","textShapes":12}
+{"kind":"shape","id":"sh/v6psfil0","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":1,"text":"LEAK YIELD DETECTION INTEGRATED AI","textPreview":"LEAK YIELD DETECTION INTEGRATED AI","textChars":34,"textLines":1,"bbox":[72,58,480,30]}
+{"kind":"textbox","id":"sh/d0z61032","slide":1,"text":"LYDIA","textPreview":"LYDIA","textChars":5,"textLines":1,"bbox":[72,180,620,110]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":1,"text":"A real-time AI platform that predicts hidden water leaks before they become visible.","textPreview":"A real-time AI platform that predicts hidden water leaks before they become visible.","textChars":84,"textLines":1,"bbox":[78,310,620,86]}
+{"kind":"shape","id":"sh/vu9knih4","slide":1,"bbox":[78,430,154,34]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":1,"text":"AI infrastructure","textPreview":"AI infrastructure","textChars":17,"textLines":1,"bbox":[90,438,130,18]}
+{"kind":"shape","id":"sh/donyd0z6","slide":1,"bbox":[244,430,164,34]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":1,"text":"Water resilience","textPreview":"Water resilience","textChars":16,"textLines":1,"bbox":[256,438,140,18]}
+{"kind":"shape","id":"sh/at47y1kr","slide":1,"bbox":[420,430,196,34]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":1,"text":"Municipal operations","textPreview":"Municipal operations","textChars":20,"textLines":1,"bbox":[432,438,172,18]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":1,"bbox":[844,170,292,310]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":1,"text":"Leak","textPreview":"Leak","textChars":4,"textLines":1,"bbox":[886,210,210,30]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":1,"text":"Yield","textPreview":"Yield","textChars":5,"textLines":1,"bbox":[886,258,210,30]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":1,"text":"Detection","textPreview":"Detection","textChars":9,"textLines":1,"bbox":[886,306,210,30]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":1,"text":"Integrated","textPreview":"Integrated","textChars":10,"textLines":1,"bbox":[886,354,210,30]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":1,"text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[886,402,210,30]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1160,662,60,24]}
+{"kind":"image","id":"im/90je9cvi","slide":1,"name":"","alt":"Cinematic water infrastructure background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/tjhad5","slide":1,"text":""}
+{"kind":"slide","id":"sl/bubuw1","slide":2,"title":"THE INVISIBLE WATER CRISIS","textShapes":14}
+{"kind":"textbox","id":"sh/y90je9cv","slide":2,"text":"THE INVISIBLE WATER CRISIS","textPreview":"THE INVISIBLE WATER CRISIS","textChars":26,"textLines":1,"bbox":[72,58,480,30]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":2,"text":"1/3 of Türkiye's treated drinking water never reaches a tap.","textPreview":"1/3 of Türkiye's treated drinking water never reaches a tap.","textChars":60,"textLines":1,"bbox":[72,96,980,140]}
+{"kind":"shape","id":"sh/gbq1oryt","slide":2,"bbox":[78,284,456,230]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":2,"bbox":[132,394,322,13]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":2,"bbox":[145,381,38,38]}
+{"kind":"shape","id":"sh/58z25kb6","slide":2,"bbox":[265,381,38,38]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":2,"bbox":[385,381,38,38]}
+{"kind":"shape","id":"sh/neloj2t8","slide":2,"bbox":[460,414,42,42]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":2,"text":"collected","textPreview":"collected","textChars":9,"textLines":1,"bbox":[118,444,90,24]}
+{"kind":"textbox","id":"sh/83itgfml","slide":2,"text":"treated","textPreview":"treated","textChars":7,"textLines":1,"bbox":[250,444,90,24]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":2,"text":"pumped","textPreview":"pumped","textChars":6,"textLines":1,"bbox":[370,444,90,24]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":2,"text":"lost","textPreview":"lost","textChars":4,"textLines":1,"bbox":[460,472,70,24]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":2,"text":"1/3","textPreview":"1/3","textChars":3,"textLines":1,"bbox":[612,278,310,126]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":2,"text":"Every lost liter has already been collected, treated, pumped and paid for.","textPreview":"Every lost liter has already been collected, treated, pumped and paid for.","textChars":74,"textLines":1,"bbox":[626,418,430,66]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":2,"bbox":[630,530,104,34]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":2,"text":"Water","textPreview":"Water","textChars":5,"textLines":1,"bbox":[642,538,80,18]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":2,"bbox":[752,530,104,34]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":2,"text":"Energy","textPreview":"Energy","textChars":6,"textLines":1,"bbox":[764,538,80,18]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":2,"bbox":[874,530,104,34]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":2,"text":"Money","textPreview":"Money","textChars":5,"textLines":1,"bbox":[886,538,80,18]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":2,"bbox":[996,530,104,34]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":2,"text":"Trust","textPreview":"Trust","textChars":5,"textLines":1,"bbox":[1008,538,80,18]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":2,"text":"The leak is physical. The failure is informational.","textPreview":"The leak is physical. The failure is informational.","textChars":51,"textLines":1,"bbox":[250,604,780,42]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,662,60,24]}
+{"kind":"notes","id":"nt/bubuw1","slide":2,"text":""}
+{"kind":"slide","id":"sl/w5w4kl","slide":3,"title":"DESIGNED AROUND PEOPLE","textShapes":21}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":3,"text":"DESIGNED AROUND PEOPLE","textPreview":"DESIGNED AROUND PEOPLE","textChars":22,"textLines":1,"bbox":[72,58,480,30]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":3,"text":"They need the right place to look first.","textPreview":"They need the right place to look first.","textChars":40,"textLines":1,"bbox":[72,98,880,140]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":3,"text":"One shared need: earlier, trusted direction before the leak becomes visible.","textPreview":"One shared need: earlier, trusted direction before the leak becomes visible.","textChars":76,"textLines":1,"bbox":[78,232,900,42]}
+{"kind":"shape","id":"sh/7adsji5s","slide":3,"bbox":[78,322,258,202]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":3,"text":"MAYOR ALP KARGI","textPreview":"MAYOR ALP KARGI","textChars":15,"textLines":1,"bbox":[96,342,220,22]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":3,"text":"Municipality","textPreview":"Municipality","textChars":12,"textLines":1,"bbox":[96,372,220,26]}
+{"kind":"textbox","id":"sh/wval87ed","slide":3,"text":"Guide field teams to the right area.","textPreview":"Guide field teams to the right area.","textChars":36,"textLines":1,"bbox":[96,418,220,58]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":3,"text":"time + workforce + budget","textPreview":"time + workforce + budget","textChars":25,"textLines":1,"bbox":[96,490,220,20]}
+{"kind":"shape","id":"sh/eloj2t83","slide":3,"bbox":[364,322,258,202]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":3,"text":"AYHAN K. & HASAN T.","textPreview":"AYHAN K. & HASAN T.","textChars":19,"textLines":1,"bbox":[382,342,220,22]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":3,"text":"Field teams","textPreview":"Field teams","textChars":11,"textLines":1,"bbox":[382,372,220,26]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":3,"text":"Point me toward the suspicious area.","textPreview":"Point me toward the suspicious area.","textChars":36,"textLines":1,"bbox":[382,418,220,58]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":3,"text":"AI supports technicians","textPreview":"AI supports technicians","textChars":23,"textLines":1,"bbox":[382,490,220,20]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":3,"bbox":[650,322,258,202]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":3,"text":"MEHMET A.","textPreview":"MEHMET A.","textChars":9,"textLines":1,"bbox":[668,342,220,22]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":3,"text":"Operations","textPreview":"Operations","textChars":10,"textLines":1,"bbox":[668,372,220,26]}
+{"kind":"textbox","id":"sh/7u54zido","slide":3,"text":"Explain why it raised an alarm.","textPreview":"Explain why it raised an alarm.","textChars":31,"textLines":1,"bbox":[668,418,220,58]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":3,"text":"trust requires explanation","textPreview":"trust requires explanation","textChars":26,"textLines":1,"bbox":[668,490,220,20]}
+{"kind":"shape","id":"sh/psfil0rq","slide":3,"bbox":[936,322,258,202]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":3,"text":"FATMA Y. & EMINE D.","textPreview":"FATMA Y. & EMINE D.","textChars":19,"textLines":1,"bbox":[954,342,220,22]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":3,"text":"Citizens","textPreview":"Citizens","textChars":8,"textLines":1,"bbox":[954,372,220,26]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":3,"text":"Detect problems before they become serious.","textPreview":"Detect problems before they become serious.","textChars":43,"textLines":1,"bbox":[954,418,220,58]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":3,"text":"less disruption","textPreview":"less disruption","textChars":15,"textLines":1,"bbox":[954,490,220,20]}
+{"kind":"textbox","id":"sh/9knih4by","slide":3,"text":"LYDIA turns scattered signals into operational confidence.","textPreview":"LYDIA turns scattered signals into operational confidence.","textChars":58,"textLines":1,"bbox":[258,588,760,44]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,662,60,24]}
+{"kind":"notes","id":"nt/w5w4kl","slide":3,"text":""}
+{"kind":"slide","id":"sl/cnflqg","slide":4,"title":"FROM MONITORING TO INTELLIGENCE","textShapes":13}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":4,"text":"FROM MONITORING TO INTELLIGENCE","textPreview":"FROM MONITORING TO INTELLIGENCE","textChars":31,"textLines":1,"bbox":[72,58,480,30]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":4,"text":"Current systems collect information. LYDIA turns it into action.","textPreview":"Current systems collect information. LYDIA turns it into action.","textChars":64,"textLines":1,"bbox":[72,98,1020,140]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":4,"bbox":[90,270,430,78]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":4,"text":"Noisy real-world data","textPreview":"Noisy real-world data","textChars":21,"textLines":1,"bbox":[116,294,360,30]}
+{"kind":"shape","id":"sh/j2t83itg","slide":4,"bbox":[586,290,64,34]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":4,"bbox":[710,270,430,78]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":4,"text":"4.0 / 5","textPreview":"4.0 / 5","textChars":7,"textLines":1,"bbox":[734,286,110,28]}
+{"kind":"textbox","id":"sh/ulwval87","slide":4,"text":"Noise-robust processing","textPreview":"Noise-robust processing","textChars":23,"textLines":1,"bbox":[856,292,240,26]}
+{"kind":"shape","id":"sh/j6tovaho","slide":4,"bbox":[90,375,430,78]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":4,"text":"Limited labeled leak data","textPreview":"Limited labeled leak data","textChars":25,"textLines":1,"bbox":[116,399,360,30]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":4,"bbox":[586,395,64,34]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":4,"bbox":[710,375,430,78]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":4,"text":"4.5 / 5","textPreview":"4.5 / 5","textChars":7,"textLines":1,"bbox":[734,391,110,28]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":4,"text":"Reliable learning","textPreview":"Reliable learning","textChars":17,"textLines":1,"bbox":[856,397,240,26]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":4,"bbox":[90,480,430,78]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":4,"text":"Low explainability","textPreview":"Low explainability","textChars":18,"textLines":1,"bbox":[116,504,360,30]}
+{"kind":"shape","id":"sh/8bat47y1","slide":4,"bbox":[586,500,64,34]}
+{"kind":"shape","id":"sh/ji5snelo","slide":4,"bbox":[710,480,430,78]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":4,"text":"4.5 / 5","textPreview":"4.5 / 5","textChars":7,"textLines":1,"bbox":[734,496,110,28]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":4,"text":"Actionable explanations","textPreview":"Actionable explanations","textChars":23,"textLines":1,"bbox":[856,502,240,26]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":4,"text":"Every improvement came from stakeholder interviews and prototype testing.","textPreview":"Every improvement came from stakeholder interviews and prototype testing.","textChars":73,"textLines":1,"bbox":[270,604,740,32]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,662,60,24]}
+{"kind":"notes","id":"nt/cnflqg","slide":4,"text":""}
+{"kind":"slide","id":"sl/at2co5","slide":5,"title":"VALIDATION JOURNEY","textShapes":19}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":5,"text":"VALIDATION JOURNEY","textPreview":"VALIDATION JOURNEY","textChars":18,"textLines":1,"bbox":[72,58,480,30]}
+{"kind":"textbox","id":"sh/val87ed8","slide":5,"text":"We listened first. Then we built.","textPreview":"We listened first. Then we built.","textChars":33,"textLines":1,"bbox":[72,98,900,140]}
+{"kind":"shape","id":"sh/6psfil0r","slide":5,"bbox":[70,296,204,210]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":5,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[88,318,50,26]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":5,"text":"Discovery","textPreview":"Discovery","textChars":9,"textLines":1,"bbox":[88,368,168,46]}
+{"kind":"textbox","id":"sh/vixczed8","slide":5,"text":"Municipalities, technicians, engineers and citizens.","textPreview":"Municipalities, technicians, engineers and citizens.","textChars":52,"textLines":1,"bbox":[88,432,168,52]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":5,"bbox":[306,296,204,210]}
+{"kind":"textbox","id":"sh/d0z61032","slide":5,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[324,318,50,26]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":5,"text":"Collaboration","textPreview":"Collaboration","textChars":13,"textLines":1,"bbox":[324,368,168,46]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":5,"text":"Merzifon, Kartal, Uluborlu and Bolu.","textPreview":"Merzifon, Kartal, Uluborlu and Bolu.","textChars":36,"textLines":1,"bbox":[324,432,168,52]}
+{"kind":"shape","id":"sh/r65wjudg","slide":5,"bbox":[542,296,204,210]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":5,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[560,318,50,26]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":5,"text":"Validation","textPreview":"Validation","textChars":10,"textLines":1,"bbox":[560,368,168,46]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":5,"text":"The same need appeared across the ecosystem.","textPreview":"The same need appeared across the ecosystem.","textChars":44,"textLines":1,"bbox":[560,432,168,52]}
+{"kind":"shape","id":"sh/nih4byhg","slide":5,"bbox":[778,296,204,210]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":5,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[796,318,50,26]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":5,"text":"4.75 / 5","textPreview":"4.75 / 5","textChars":8,"textLines":1,"bbox":[796,368,168,46]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":5,"text":"Would you use LYDIA in your organization?","textPreview":"Would you use LYDIA in your organization?","textChars":41,"textLines":1,"bbox":[796,432,168,52]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":5,"bbox":[1014,296,204,210]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1032,318,50,26]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":5,"text":"Iteration","textPreview":"Iteration","textChars":9,"textLines":1,"bbox":[1032,368,168,46]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":5,"text":"Interface, explainability and architecture.","textPreview":"Interface, explainability and architecture.","textChars":43,"textLines":1,"bbox":[1032,432,168,52]}
+{"kind":"textbox","id":"sh/sji5snel","slide":5,"text":"The MVP is the result of conversations, not guesswork.","textPreview":"The MVP is the result of conversations, not guesswork.","textChars":54,"textLines":1,"bbox":[278,588,720,42]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1160,662,60,24]}
+{"kind":"notes","id":"nt/at2co5","slide":5,"text":""}
+{"kind":"slide","id":"sl/8ncomb","slide":6,"title":"SYSTEM & MODEL","textShapes":24}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":6,"text":"SYSTEM & MODEL","textPreview":"SYSTEM & MODEL","textChars":14,"textLines":1,"bbox":[72,58,480,30]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":6,"text":"This is an MVP prototype, but the pipeline is real.","textPreview":"This is an MVP prototype, but the pipeline is real.","textChars":51,"textLines":1,"bbox":[72,98,1000,140]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":6,"text":"Merzifon Municipality context - Amasya Province - July 03, 2026","textPreview":"Merzifon Municipality context - Amasya Province - July 03, 2026","textChars":63,"textLines":1,"bbox":[78,214,760,34]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":6,"bbox":[78,264,1124,48]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":6,"text":"MVP prototype: simulated LeakDB data, realistic topology, not yet a production municipal deployment.","textPreview":"MVP prototype: simulated LeakDB data, realistic topology, not yet a production municipal deployment.","textChars":100,"textLines":1,"bbox":[100,279,1050,22]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":6,"bbox":[78,346,252,134]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":6,"text":"MODEL","textPreview":"MODEL","textChars":5,"textLines":1,"bbox":[96,366,190,18]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":6,"text":"XGBoost","textPreview":"XGBoost","textChars":7,"textLines":1,"bbox":[96,398,210,34]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":6,"text":"Incremental training","textPreview":"Incremental training","textChars":20,"textLines":1,"bbox":[96,442,210,24]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":6,"bbox":[359,346,252,134]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":6,"text":"FEATURES","textPreview":"FEATURES","textChars":8,"textLines":1,"bbox":[377,366,190,18]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":6,"text":"161","textPreview":"161","textChars":3,"textLines":1,"bbox":[377,398,210,34]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":6,"text":"Pressure, flow, demand, time","textPreview":"Pressure, flow, demand, time","textChars":28,"textLines":1,"bbox":[377,442,210,24]}
+{"kind":"shape","id":"sh/judg7ads","slide":6,"bbox":[640,346,252,134]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":6,"text":"TRAINING","textPreview":"TRAINING","textChars":8,"textLines":1,"bbox":[658,366,190,18]}
+{"kind":"textbox","id":"sh/1032lszq","slide":6,"text":"~12.3M","textPreview":"~12.3M","textChars":6,"textLines":1,"bbox":[658,398,210,34]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":6,"text":"700 LeakDB scenarios","textPreview":"700 LeakDB scenarios","textChars":20,"textLines":1,"bbox":[658,442,210,24]}
+{"kind":"shape","id":"sh/nyd0z610","slide":6,"bbox":[921,346,252,134]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":6,"text":"TEST SET","textPreview":"TEST SET","textChars":8,"textLines":1,"bbox":[939,366,190,18]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":6,"text":"2.63M","textPreview":"2.63M","textChars":5,"textLines":1,"bbox":[939,398,210,34]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":6,"text":"150 held-out scenarios","textPreview":"150 held-out scenarios","textChars":22,"textLines":1,"bbox":[939,442,210,24]}
+{"kind":"shape","id":"sh/gvy90je9","slide":6,"bbox":[226,528,190,96]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":6,"text":"82%","textPreview":"82%","textChars":3,"textLines":1,"bbox":[244,542,154,36]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":6,"text":"accuracy","textPreview":"accuracy","textChars":8,"textLines":1,"bbox":[244,582,154,28]}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":6,"bbox":[442,528,220,96]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":6,"text":"59%","textPreview":"59%","textChars":3,"textLines":1,"bbox":[460,542,184,36]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":6,"text":"leak precision","textPreview":"leak precision","textChars":14,"textLines":1,"bbox":[460,582,184,28]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":6,"bbox":[688,528,200,96]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":6,"text":"53%","textPreview":"53%","textChars":3,"textLines":1,"bbox":[706,542,164,36]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":6,"text":"leak recall","textPreview":"leak recall","textChars":11,"textLines":1,"bbox":[706,582,164,28]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":6,"text":"FastAPI cloud server + Streamlit cloud interface + 30-minute evaluation cycle","textPreview":"FastAPI cloud server + Streamlit cloud interface + 30-minute evaluation cycle","textChars":77,"textLines":1,"bbox":[264,650,760,24]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1160,662,60,24]}
+{"kind":"notes","id":"nt/8ncomb","slide":6,"text":""}
+{"kind":"slide","id":"sl/xj26iw","slide":7,"title":"LIVE MVP DEMO","textShapes":14}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":7,"text":"LIVE MVP DEMO","textPreview":"LIVE MVP DEMO","textChars":13,"textLines":1,"bbox":[72,58,480,30]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":7,"text":"From data to dispatch.","textPreview":"From data to dispatch.","textChars":22,"textLines":1,"bbox":[72,98,520,140]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":7,"text":"The deployed demo shows the operational loop: network state, model prediction, mapped anomaly and dispatch-ready context.","textPreview":"The deployed demo shows the operational loop: network state, model prediction, mapped anomaly and dispatch-ready context.","textChars":121,"textLines":1,"bbox":[78,210,520,82]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":7,"bbox":[86,330,360,34]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":7,"text":"LeakDB","textPreview":"LeakDB","textChars":6,"textLines":1,"bbox":[104,338,320,18]}
+{"kind":"shape","id":"sh/nih4byhg","slide":7,"bbox":[86,378,360,34]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":7,"text":"161 features","textPreview":"161 features","textChars":12,"textLines":1,"bbox":[104,386,320,18]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":7,"bbox":[86,426,360,34]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":7,"text":"/predict","textPreview":"/predict","textChars":8,"textLines":1,"bbox":[104,434,320,18]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":7,"bbox":[86,474,360,34]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":7,"text":"Map alert","textPreview":"Map alert","textChars":9,"textLines":1,"bbox":[104,482,320,18]}
+{"kind":"shape","id":"sh/g7adsji5","slide":7,"bbox":[86,522,360,34]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":7,"text":"Telegram dispatch","textPreview":"Telegram dispatch","textChars":17,"textLines":1,"bbox":[104,530,320,18]}
+{"kind":"shape","id":"sh/yd0z6103","slide":7,"bbox":[628,118,548,424]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":7,"text":"aquasense-dashboard.onrender.com","textPreview":"aquasense-dashboard.onrender.com","textChars":32,"textLines":1,"bbox":[662,148,440,24]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":7,"text":"Live dashboard","textPreview":"Live dashboard","textChars":14,"textLines":1,"bbox":[690,230,400,48]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":7,"text":"Open during the pitch for the working MVP demo.","textPreview":"Open during the pitch for the working MVP demo.","textChars":47,"textLines":1,"bbox":[724,296,330,54]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":7,"text":"https://aquasense-dashboard.onrender.com","textPreview":"https://aquasense-dashboard.onrender.com","textChars":40,"textLines":1,"bbox":[688,398,430,26]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":7,"text":"Not yet done: real sensors, field validation, security review, municipal retraining.","textPreview":"Not yet done: real sensors, field validation, security review, municipal retraining.","textChars":84,"textLines":1,"bbox":[642,574,512,48]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1160,662,60,24]}
+{"kind":"notes","id":"nt/xj26iw","slide":7,"text":""}
+{"kind":"slide","id":"sl/2oom57","slide":8,"title":"PRODUCT ROADMAP","textShapes":15}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":8,"text":"PRODUCT ROADMAP","textPreview":"PRODUCT ROADMAP","textChars":15,"textLines":1,"bbox":[72,58,480,30]}
+{"kind":"textbox","id":"sh/032lszqt","slide":8,"text":"Today proves the intelligence. Tomorrow expands the platform.","textPreview":"Today proves the intelligence. Tomorrow expands the platform.","textChars":61,"textLines":1,"bbox":[72,98,1000,140]}
+{"kind":"shape","id":"sh/tovahoza","slide":8,"bbox":[78,300,250,224]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":8,"text":"MUST HAVE","textPreview":"MUST HAVE","textChars":9,"textLines":1,"bbox":[96,326,200,18]}
+{"kind":"textbox","id":"sh/bulwval8","slide":8,"text":"Prediction reliability","textPreview":"Prediction reliability","textChars":22,"textLines":1,"bbox":[96,372,210,56]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":8,"text":"Explainable alerts and robust data handling.","textPreview":"Explainable alerts and robust data handling.","textChars":44,"textLines":1,"bbox":[96,458,208,54]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":8,"bbox":[359,300,250,224]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":8,"text":"SHOULD HAVE","textPreview":"SHOULD HAVE","textChars":11,"textLines":1,"bbox":[377,326,200,18]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":8,"text":"Municipal integration","textPreview":"Municipal integration","textChars":21,"textLines":1,"bbox":[377,372,210,56]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":8,"text":"SCADA ingestion, alert history and reporting.","textPreview":"SCADA ingestion, alert history and reporting.","textChars":45,"textLines":1,"bbox":[377,458,208,54]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":8,"bbox":[640,300,250,224]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":8,"text":"COULD HAVE","textPreview":"COULD HAVE","textChars":10,"textLines":1,"bbox":[658,326,200,18]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":8,"text":"Field intelligence","textPreview":"Field intelligence","textChars":18,"textLines":1,"bbox":[658,372,210,56]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":8,"text":"Mobile dispatch and repair feedback loops.","textPreview":"Mobile dispatch and repair feedback loops.","textChars":42,"textLines":1,"bbox":[658,458,208,54]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":8,"bbox":[921,300,250,224]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":8,"text":"FUTURE VISION","textPreview":"FUTURE VISION","textChars":13,"textLines":1,"bbox":[939,326,200,18]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":8,"text":"City-scale intelligence","textPreview":"City-scale intelligence","textChars":23,"textLines":1,"bbox":[939,372,210,56]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":8,"text":"Water, pressure, maintenance and resilience planning.","textPreview":"Water, pressure, maintenance and resilience planning.","textChars":53,"textLines":1,"bbox":[939,458,208,54]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1160,662,60,24]}
+{"kind":"notes","id":"nt/2oom57","slide":8,"text":""}
+{"kind":"slide","id":"sl/bmr39d","slide":9,"title":"LYDIA","textShapes":5}
+{"kind":"shape","id":"sh/cbulwval","slide":9,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":9,"text":"LYDIA","textPreview":"LYDIA","textChars":5,"textLines":1,"bbox":[72,58,480,30]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":9,"text":"Every drop has a destination.","textPreview":"Every drop has a destination.","textChars":29,"textLines":1,"bbox":[220,238,840,82]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":9,"text":"Let's make sure it gets there.","textPreview":"Let's make sure it gets there.","textChars":30,"textLines":1,"bbox":[290,340,700,58]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":9,"text":"Leak Yield Detection Integrated AI","textPreview":"Leak Yield Detection Integrated AI","textChars":34,"textLines":1,"bbox":[390,486,500,28]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1160,662,60,24]}
+{"kind":"image","id":"im/ex0nuxc3","slide":9,"name":"","alt":"Cinematic water infrastructure background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/bmr39d","slide":9,"text":""}

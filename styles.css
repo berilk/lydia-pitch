@@ -276,7 +276,8 @@ h3 {
 
 .crisis h2 {
   max-width: 1080px;
-  font-size: clamp(1.9rem, 4.2vw, 3.95rem);
+  margin-bottom: clamp(14px, 2.4vh, 22px);
+  font-size: clamp(1.65rem, 3.45vw, 3.35rem);
 }
 
 .crisis-stage,
@@ -297,12 +298,12 @@ h3 {
   grid-template-columns: minmax(320px, 1fr) minmax(0, 1fr);
   align-items: center;
   gap: clamp(18px, 3.6vw, 42px);
-  padding: clamp(18px, 2.8vw, 30px);
+  padding: clamp(14px, 2.2vw, 22px);
 }
 
 .pipe-visual {
   position: relative;
-  min-height: 260px;
+  min-height: 214px;
   overflow: hidden;
   border-radius: 8px;
   background:
@@ -321,7 +322,7 @@ h3 {
 
 .pipe-shadow {
   position: absolute;
-  top: 148px;
+  top: 124px;
   right: 13%;
   left: 9%;
   height: 34px;
@@ -332,7 +333,7 @@ h3 {
 
 .pipe-body {
   position: absolute;
-  top: 112px;
+  top: 92px;
   right: 10%;
   left: 8%;
   height: 42px;
@@ -345,7 +346,7 @@ h3 {
 
 .pipe-glow {
   position: absolute;
-  top: 122px;
+  top: 102px;
   right: 17%;
   left: 14%;
   height: 8px;
@@ -356,7 +357,7 @@ h3 {
 .joint {
   position: absolute;
   z-index: 2;
-  top: 100px;
+  top: 80px;
   width: 18px;
   height: 66px;
   border-radius: 999px;
@@ -370,7 +371,7 @@ h3 {
 .lost-drop {
   position: absolute;
   z-index: 3;
-  top: 165px;
+  top: 136px;
   left: 70%;
   width: 38px;
   height: 38px;
@@ -383,7 +384,7 @@ h3 {
 
 .leak-thread {
   position: absolute;
-  top: 150px;
+  top: 130px;
   left: calc(70% + 18px);
   width: 4px;
   height: 54px;
@@ -393,7 +394,7 @@ h3 {
 
 .signal {
   position: absolute;
-  top: 64px;
+  top: 48px;
   width: 20px;
   height: 20px;
   border-radius: 50% 50% 50% 5px;
@@ -420,13 +421,13 @@ h3 {
   text-transform: uppercase;
 }
 
-.pipe-visual p:nth-of-type(1) { top: 184px; left: 12%; }
-.pipe-visual p:nth-of-type(2) { top: 218px; left: 66%; color: rgba(255, 138, 107, 0.9); }
+.pipe-visual p:nth-of-type(1) { top: 166px; left: 12%; }
+.pipe-visual p:nth-of-type(2) { top: 184px; left: 66%; color: rgba(255, 138, 107, 0.9); }
 
 .stat-focus strong {
   display: block;
   color: var(--blue);
-  font-size: clamp(4.8rem, 12vw, 9.4rem);
+  font-size: clamp(4.2rem, 10.6vw, 8.2rem);
   line-height: 0.82;
 }
 
@@ -452,7 +453,7 @@ small,
   flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
-  margin-top: 14px;
+  margin-top: 10px;
 }
 
 .crisis-proof span {
@@ -469,28 +470,32 @@ small,
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 10px;
-  width: min(760px, 100%);
-  margin: 12px auto 0;
+  width: min(680px, 100%);
+  margin: 8px auto 0;
 }
 
 .global-proof article {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: baseline;
+  gap: 10px;
   border: 1px solid rgba(8, 20, 31, 0.1);
   border-radius: 8px;
-  padding: 12px 14px;
+  padding: 8px 12px;
   background: rgba(255, 255, 255, 0.68);
 }
 
 .global-proof strong {
   display: block;
   color: var(--navy);
-  font-size: clamp(1.45rem, 2.6vw, 2.2rem);
+  font-size: clamp(1.12rem, 2vw, 1.55rem);
   line-height: 0.95;
 }
 
 .global-proof p {
-  margin: 5px 0 0;
+  margin: 0;
   color: var(--muted);
-  font-size: 0.86rem;
+  font-size: 0.78rem;
   line-height: 1.25;
 }
 
@@ -502,10 +507,10 @@ small,
 
 .takeaway {
   max-width: 980px;
-  margin: clamp(16px, 3vh, 26px) auto 0;
+  margin: clamp(10px, 2vh, 18px) auto 0;
   color: var(--navy);
   text-align: center;
-  font-size: clamp(1.25rem, 2.9vw, 2.8rem);
+  font-size: clamp(1.08rem, 2.25vw, 2.15rem);
   font-weight: 900;
   line-height: 1.08;
 }
@@ -1131,15 +1136,43 @@ cite {
   }
 
   .crisis-stage {
-    padding: 20px;
+    padding: 14px;
   }
 
   .pipe-visual {
-    min-height: 210px;
+    min-height: 182px;
+  }
+
+  .crisis h2 {
+    font-size: clamp(1.45rem, 3vw, 2.8rem);
+    margin-bottom: 12px;
   }
 
   .stat-focus strong {
-    font-size: clamp(4rem, 10vw, 7.5rem);
+    font-size: clamp(3.7rem, 8.6vw, 6.8rem);
+  }
+
+  .stat-focus p {
+    margin-bottom: 8px;
+    font-size: 0.95rem;
+    line-height: 1.28;
+  }
+
+  .crisis-proof span {
+    padding: 7px 10px;
+    font-size: 0.72rem;
+  }
+
+  .global-proof article {
+    padding: 7px 10px;
+  }
+
+  .global-proof strong {
+    font-size: 1.12rem;
+  }
+
+  .global-proof p {
+    font-size: 0.72rem;
   }
 
   .stakeholder-grid,
